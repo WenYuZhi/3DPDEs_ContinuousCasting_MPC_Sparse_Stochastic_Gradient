@@ -1,0 +1,227 @@
+﻿  Gradientbasedalgorithm.cpp
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(40): error C2039: “computejacobian”: 不是“Gradientbasedalgorithm”的成员
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.h(8): note: 参见“Gradientbasedalgorithm”的声明
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(43): error C2065: “mCasterOne”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(43): error C2227: “->section”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(43): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(43): error C3078: 必须在新的表达式中指定数组大小
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(44): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(49): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(53): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(54): error C2065: “staticmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(58): error C2065: “mCasterOne”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(58): error C2227: “->section”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(58): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(60): error C2065: “mCasterOne”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(60): error C2227: “->moldsection”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(60): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(63): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(64): error C2065: “allmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(68): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(69): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(70): error C2065: “Jacobian”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(70): error C2065: “allmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(70): error C2065: “staticmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(73): error C2039: “computesparsejacobian”: 不是“Gradientbasedalgorithm”的成员
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.h(8): note: 参见“Gradientbasedalgorithm”的声明
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(76): error C2065: “mCasterOne”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(76): error C2227: “->section”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(76): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(76): error C3078: 必须在新的表达式中指定数组大小
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(78): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(83): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(87): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(88): error C2065: “staticmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(92): error C2065: “mCasterOne”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(92): error C2227: “->section”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(92): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(94): error C2065: “mCasterOne”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(94): error C2227: “->moldsection”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(94): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(97): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(98): error C2065: “allmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(102): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(103): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(104): error C2065: “Jacobian”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(104): error C2065: “allmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(104): error C2065: “staticmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(107): error C2039: “computegradient”: 不是“Gradientbasedalgorithm”的成员
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.h(8): note: 参见“Gradientbasedalgorithm”的声明
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(109): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(111): error C2065: “gradient”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(112): error C2065: “coolsection”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(113): error C2065: “gradient”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(113): error C2065: “taimmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(113): error C2065: “staticmeantemperature”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(113): error C2065: “Jacobian”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(114): error C2065: “dk”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(114): error C2065: “gradient”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(198): error C2039: “mesh”: 不是“Temperature”的成员
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.h(6): note: 参见“Temperature”的声明
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(198): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(204): error C2039: “mesh”: 不是“Temperature”的成员
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.h(6): note: 参见“Temperature”的声明
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\gradientbasedalgorithm.cpp(204): error C2227: “->tao”的左边必须指向类/结构/联合/泛型类型
+  Temperature.cpp
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(4): error C2065: “Mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(4): error C2065: “continuous_casting_mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(4): error C2062: 意外的类型“float”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(21): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(21): error C2039: “mesh”: 不是“Temperature”的成员
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.h(6): note: 参见“Temperature”的声明
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(23): error C3078: 必须在新的表达式中指定数组大小
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(24): error C3078: 必须在新的表达式中指定数组大小
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(25): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(25): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(25): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(26): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(26): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(26): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(27): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(27): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(27): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(29): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(29): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(29): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(29): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(29): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(30): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(30): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(30): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(30): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(30): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(32): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(32): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(32): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(32): error C3078: 必须在新的表达式中指定数组大小
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(33): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(33): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(33): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(67): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(67): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(67): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(68): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(68): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(68): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(69): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(69): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(69): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(70): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(70): error C2227: “->tao”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(70): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(71): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(71): error C2227: “->dx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(71): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(72): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(72): error C2227: “->dy”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(72): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(73): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(73): error C2227: “->dz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(73): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(675): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(675): error C2227: “->dy”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(675): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(684): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(684): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(684): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(685): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(685): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(685): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(686): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(686): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(686): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(688): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(688): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(688): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(688): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(688): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(689): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(689): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(689): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(689): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(689): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(697): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(697): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(697): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(698): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(698): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(698): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(699): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(699): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(699): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(701): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(701): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(701): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(701): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(701): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(702): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(702): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(702): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(702): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(702): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(712): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(712): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(712): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(713): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(713): error C2227: “->dy”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(713): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(724): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(724): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(724): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(726): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(726): error C2227: “->dy”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(726): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(743): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(743): error C2227: “->lx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(743): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(743): error C2227: “->nx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(743): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(744): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(744): error C2227: “->ly”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(744): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(744): error C2227: “->ny”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(744): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(745): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(745): error C2227: “->lz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(745): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(745): error C2227: “->nz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(745): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(747): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(747): error C2227: “->dx”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(747): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(748): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(748): error C2227: “->dy”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(748): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(749): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(749): error C2227: “->dz”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(749): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(750): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(750): error C2227: “->tao”的左边必须指向类/结构/联合/泛型类型
+  c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(750): note: 类型是“unknown-type”
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(765): error C2065: “mesh”: 未声明的标识符
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(765): error C2227: “->lx”的左边必须指向类/结构/联合/泛型类型
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\temperature.cpp(765): fatal error C1003: 错误计数超过 100；正在停止编译
+  Continuous_Caster.cpp
+  Steel.cpp
+  Unittest.cpp
+  Mesh.cpp
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\mesh.cpp(1): fatal error C1083: 无法打开包括文件: “Mesh.h”: No such file or directory
+  3DPDEs_ContinuousCasting_MPC.cpp
+c:\thesis_project\3dpdes_continuouscasting_mpc_sparse_stochastic_gradient_\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc\3dpdes_continuouscasting_mpc.cpp(11): fatal error C1083: 无法打开包括文件: “Mesh.h”: No such file or directory
+  正在生成代码...
