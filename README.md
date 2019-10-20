@@ -1,1 +1,1 @@
-# 3DPDEs_ContinuousCasting_MPC_Sparse_Stochastic_Gradient
+# Continuous Casting 3D MPC Sparse Jacobian Stochastic Gradient
